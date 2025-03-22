@@ -1,0 +1,14 @@
+C:\Users\VICTUS\Desktop\tarea de herencia y Polimorfismo\tarea de herencia y Polimorfismo\bin\Debug\net8.0\tarea de herencia y Polimorfismo.exe
+C:\Users\VICTUS\Desktop\tarea de herencia y Polimorfismo\tarea de herencia y Polimorfismo\bin\Debug\net8.0\tarea de herencia y Polimorfismo.deps.json
+C:\Users\VICTUS\Desktop\tarea de herencia y Polimorfismo\tarea de herencia y Polimorfismo\bin\Debug\net8.0\tarea de herencia y Polimorfismo.runtimeconfig.json
+C:\Users\VICTUS\Desktop\tarea de herencia y Polimorfismo\tarea de herencia y Polimorfismo\bin\Debug\net8.0\tarea de herencia y Polimorfismo.dll
+C:\Users\VICTUS\Desktop\tarea de herencia y Polimorfismo\tarea de herencia y Polimorfismo\bin\Debug\net8.0\tarea de herencia y Polimorfismo.pdb
+C:\Users\VICTUS\Desktop\tarea de herencia y Polimorfismo\tarea de herencia y Polimorfismo\obj\Debug\net8.0\tarea de herencia y Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\Desktop\tarea de herencia y Polimorfismo\tarea de herencia y Polimorfismo\obj\Debug\net8.0\tarea de herencia y Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\VICTUS\Desktop\tarea de herencia y Polimorfismo\tarea de herencia y Polimorfismo\obj\Debug\net8.0\tarea de herencia y Polimorfismo.AssemblyInfo.cs
+C:\Users\VICTUS\Desktop\tarea de herencia y Polimorfismo\tarea de herencia y Polimorfismo\obj\Debug\net8.0\tarea de herencia y Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\Desktop\tarea de herencia y Polimorfismo\tarea de herencia y Polimorfismo\obj\Debug\net8.0\tarea de herencia y Polimorfismo.dll
+C:\Users\VICTUS\Desktop\tarea de herencia y Polimorfismo\tarea de herencia y Polimorfismo\obj\Debug\net8.0\refint\tarea de herencia y Polimorfismo.dll
+C:\Users\VICTUS\Desktop\tarea de herencia y Polimorfismo\tarea de herencia y Polimorfismo\obj\Debug\net8.0\tarea de herencia y Polimorfismo.pdb
+C:\Users\VICTUS\Desktop\tarea de herencia y Polimorfismo\tarea de herencia y Polimorfismo\obj\Debug\net8.0\tarea de herencia y Polimorfismo.genruntimeconfig.cache
+C:\Users\VICTUS\Desktop\tarea de herencia y Polimorfismo\tarea de herencia y Polimorfismo\obj\Debug\net8.0\ref\tarea de herencia y Polimorfismo.dll

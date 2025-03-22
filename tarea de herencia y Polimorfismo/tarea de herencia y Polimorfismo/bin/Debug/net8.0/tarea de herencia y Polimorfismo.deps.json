@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tarea de herencia y Polimorfismo/1.0.0": {
+        "runtime": {
+          "tarea de herencia y Polimorfismo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tarea de herencia y Polimorfismo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
